@@ -1,0 +1,16 @@
+dhompet adalah aplikasi pengelola keuangan pribadi dan pencatat pengeluaran yang intuitif, aman, dan 100% offline. 
+
+Didesain untuk membantu Anda melacak keuangan harian tanpa ribet, tanpa iklan yang mengganggu, dan tanpa perlu khawatir data pribadi Anda bocor ke internet.
+
+Fitur Unggulan dhompet:
+- 100% Offline & Aman: Data transaksi tersimpan privat di perangkat Anda sendiri.
+- Lacak Pemasukan & Pengeluaran: Catat transaksi hanya dalam hitungan detik dengan antarmuka modern.
+- Kelola Banyak Rekening: Atur saldo kas tunai, rekening bank, hingga dompet digital.
+- Kategori Transaksi yang Fleksibel: Buat dan sesuaikan kategori dengan ikon dan warna pilihan Anda.
+- Anggaran Bulanan: Tetapkan batas anggaran belanja agar keuangan tetap sehat dan terkontrol.
+- Statistik & Laporan Grafis: Pantau grafik arus kas dan analisis pengeluaran dengan mudah.
+- Catatan Hutang & Piutang: Kelola pinjaman uang dengan tenggat waktu yang jelas.
+- Cadangkan & Pulihkan (Backup & Restore): Ekspor data Anda kapan saja ke file lokal untuk keamanan ganti perangkat.
+- Mode Gelap & Mode Terang yang Elegan.
+
+Ambil kendali atas masa depan keuangan Anda hari ini bersama dhompet!

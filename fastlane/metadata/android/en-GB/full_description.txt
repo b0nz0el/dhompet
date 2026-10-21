@@ -1,0 +1,16 @@
+dhompet is an intuitive, secure, and 100% offline personal finance and expense management app.
+
+Designed to help you stay on top of your daily finances with zero hassle, no annoying ads, and complete privacy peace of mind.
+
+Key Features of dhompet:
+- 100% Offline & Private: All transaction data is stored locally on your device.
+- Simple Expense & Income Tracking: Log your transactions in seconds with a clean, modern UI.
+- Multiple Accounts: Manage cash wallets, bank accounts, and digital cards with ease.
+- Custom Categories: Personalize categories with custom icons and color palettes.
+- Budget Planning: Set category and total monthly budgets to keep your spending disciplined.
+- Rich Reports & Analytics: Gain deep insights with interactive cashflow and spending charts.
+- Loans & Debts Tracker: Manage borrowed and lent money with clear due dates.
+- Easy Backup & Restore: Export and import your data anytime for hassle-free device switching.
+- Elegant Dark and Light themes.
+
+Take control of your financial journey today with dhompet!
