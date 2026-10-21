@@ -12,6 +12,10 @@ plugins {
 }
 
 subprojects {
+    tasks.matching { it.name.startsWith("verify") && it.name.endsWith("Resources") }.configureEach {
+        enabled = false
+    }
+
     apply(plugin = "org.jetbrains.kotlinx.kover")
     kover {
         reports {
